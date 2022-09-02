@@ -1,0 +1,11 @@
+Instalar nodejs.
+
+
+
+- npm init -y (Iniciar node)
+- npm install -D cypress@9.4.1 (Iniciar cypress)
+
+
+npx cypress open (Executar)
+
+npx cypress run (Executar sem navegador)
